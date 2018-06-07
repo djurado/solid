@@ -1,2 +1,2 @@
 # solid
-TallerSolid
+Ejercicio de SOLID
